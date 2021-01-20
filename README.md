@@ -1,6 +1,6 @@
 ### Hi 👋
 I am recent engineering student looking for opportunities and collabaration in projects related to javascript.
-- 🌱 I’m currently learning Javascript, CSS, Html and Reactive Native.
+- 🌱 I’m currently learning Javascript, CSS, Html and React Native.
 - 🤝 I’m looking to collaborate.
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=JorgeFPEres)
