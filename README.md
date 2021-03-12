@@ -1,5 +1,5 @@
 ### Hi 👋
-I am recent engineering student looking for opportunities and collabaration in projects related to javascript.
+I am engineering student looking for opportunities and collabaration in projects related to javascript and React.
 - 🌱 I’m currently learning Javascript, CSS, Html and React Native.
 - 🤝 I’m looking to collaborate.
 
