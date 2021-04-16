@@ -1,6 +1,6 @@
 ### Hi 👋
-I am engineering student looking for opportunities and collabaration in projects related to javascript and React.
-- 🌱 I’m currently learning Javascript, CSS, Html and React Native.
+I am front-end developer looking for opportunities and collabaration in projects related to javascript and React.
+- 🌱 I’m currently learning React Native and MERNG Stack.
 - 🤝 I’m looking to collaborate.
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=JorgeFPEres)
