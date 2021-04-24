@@ -1,6 +1,6 @@
 
 <h1 align="center">Hey 👋, I'm Jorge</h1>
-<h3 align="center">but my friends call-me Fernando</h3>
+<h3 align="center">but my friends call me Fernando</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jorgefperes" alt="jorgefperes" /> </p>
 
