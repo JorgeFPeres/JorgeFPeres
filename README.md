@@ -18,4 +18,7 @@
   <img align="center" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="jorgefPeres"/></a>
  <a href="https://www.facebook.com/jorgefernandoperes" target="blank">
   <img align="center" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="jorgefPeres"/></a>
+  <a href="https://www.youtube.com/channel/UCWox-4vjxlV11PjoK9dOxtg" target="blank">
+  <img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="jorgefPeres"/></a>
+  
 </p>
