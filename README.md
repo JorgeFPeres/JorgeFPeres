@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jorgefperes" alt="jorgefperes" /> </p>
 
-- 🔭 I’m currently looking for a new opportunity
+- 🔭 I’m a Front-end developer at Stone.co
 - 🌱 I’m currently learning **JavaScript, ReactJS, React Native, NextJs**
 - 🤝 I’m looking to collaborate.
 
