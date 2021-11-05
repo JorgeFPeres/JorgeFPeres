@@ -3,9 +3,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jorgefperes" alt="jorgefperes" /> </p>
 
-- 🔭 I’m a Front-end developer at Stone.co
-- 🌱 I’m currently working with **JavaScript, TypeScript, ReactJS, React Native, NextJs**
-- 🤝 I’m looking to collaborate.
+- 🔭 Front-end developer at Stone.co
+- 🌱 Currently working with **JavaScript, TypeScript, ReactJS, React Native, NextJs**
+- 🤝 Looking to collaborate.
 
 
 
