@@ -5,7 +5,7 @@
 
 - 🔭 Front-end developer at Stone.co
 - 🌱 Currently working with **JavaScript, TypeScript, ReactJS, React Native, NextJs**
-- 📚 Studing DevOps stuffs and Back-end Node.js
+- 📚 Studing clean architecture, design pattern and back-end in Node.js
 - 🤝 Looking to collaborate.
 
 
