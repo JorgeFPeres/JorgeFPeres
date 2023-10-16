@@ -3,9 +3,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jorgefperes" alt="jorgefperes" /> </p>
 
-- 🔭 Front-end developer at Stone.co
-- 🌱 Currently working with **JavaScript, TypeScript, ReactJS, React Native, NextJs**
-- 📚 Studing clean architecture, design pattern and back-end in Elixir
+- 🔭 Software engineer at Stone.co
+- 🌱 Currently working with **ReactJS, NextJs, GO, Elixir**
+- 📚 Studing clean architecture, design pattern and back-end in Elixir and Go
 - 🤝 Looking to collaborate.
 
 
