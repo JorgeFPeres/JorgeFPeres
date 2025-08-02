@@ -3,10 +3,8 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jorgefperes" alt="jorgefperes" /> </p>
 
-- 🔭 Software engineer at Stone.co
+- 🔭 FE Software engineer
 - 🌱 Currently working with **ReactJS, NextJs, Kotlin (KMP)**
-- 📚 Studing clean architecture, design pattern and back-end in Elixir and Go
-- 🤝 Looking to collaborate.
 
 
 
